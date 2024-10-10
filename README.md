@@ -1,5 +1,4 @@
 # DataSpark-Illuminating-Insights-for-Global-Electronics
-# DataSpark-Illuminating-Insights-for-Global-Electronics
 Retail Anaytics in the Electronics Industry
 ## Skill Takeaway :
 
